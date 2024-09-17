@@ -14,7 +14,7 @@ setup(
     description="A package with some games in python",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/PedroThezi/package-games-in-python"
+    url="https://github.com/PedroThezi/package-games-in-python",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
